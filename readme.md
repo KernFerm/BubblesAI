@@ -66,15 +66,6 @@ Just install using the MSI file. The application will auto-launch after installa
 
 ---
 
-## 🆘 Troubleshooting
-
-- If you see warnings about deprecated packages, update dependencies with `npm update`.
-- If you see symbolic link errors, run your terminal as Administrator or ignore (Windows installer will still build).
-- If you see icon size errors, ensure `assets/icon.ico` is at least 256x256 pixels.
-- For build errors, check your `package.json` for correct build config.
-
----
-
 ## 💡 About
 
 BubblesAI is designed for students, professionals, and creators who want fast, secure access to the world’s best AI models from a single desktop app.
