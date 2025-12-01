@@ -6,6 +6,7 @@
 ![Models](https://img.shields.io/badge/Models-12%2B-purple)
 ![Privacy](https://img.shields.io/badge/Privacy-No%20Local%20Storage-important)
 ![Auto-Launch](https://img.shields.io/badge/Auto--Launch-Yes-success)
+![GitHub Releases](https://img.shields.io/github/downloads/KernFerm/BubblesAI/total?label=Downloads)
 
 
 # 🤖 BubblesAI Electron Desktop App
@@ -18,11 +19,12 @@ A beautiful, secure, multi-provider AI chat application for Windows, built with 
 ## 📦 Windows Installer
 
 
+
 **Latest Release:**
 
 - `BubblesAI Setup 1.0.0.exe` (size may vary)
 - Built: December 1, 2025
-- Location: `dist` folder after build
+- Download from the [Releases](https://github.com/KernFerm/BubblesAI/releases) section of this repository
 - SHA-256: `6B022835DE979B22E84CD9E3BA41AA458734592E10C7F2B9E25E5268E5A2D3EB`
 
 **How to Install:**
@@ -63,9 +65,6 @@ Just install using the MSI file. The application will auto-launch after installa
 - **API keys:** Enter your API key/token for each provider in the app UI.
 - **Model selection:** Choose your model (e.g., GPT-4, Claude, Gemini, etc.)
 - **Provider selection:** Switch between providers instantly.
-
----
-
 
 ---
 
