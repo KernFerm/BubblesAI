@@ -17,7 +17,6 @@ A beautiful, secure, multi-provider AI chat application for Windows, built with 
 ## 📦 Windows Installer
 
 
-
 **Latest Release:**
 
 - `BubblesAI Setup 1.0.0.exe` (size may vary)
