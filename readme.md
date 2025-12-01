@@ -1,63 +1,11 @@
+# 🤖 BubblesAI Electron Desktop App
 
-# 🤖 Bubbles-AI-GPT: Multi-AI Chat Application
-
-A secure, web-based chat interface for talking to multiple AI models from different providers—all in one beautiful, easy-to-use application.
-
-## 🌟 What’s New
-
-- **Logout Flow Improved:** After logging out, you’ll see a pop-up asking if you want to exit and close the app or stay on the login screen.
-- **Exit Button:** Cleanly shuts down the server from the browser when you choose to exit.
-- **Frontend/Backend Integration:** The app now allows the browser to request the backend server to shut down for a seamless exit experience.
-
-## 🚀 Quick Start Guide
-
-1. **Start the Server**
-   - Open your terminal/command prompt.
-   - Navigate to this folder: `cd path/to/bubbles-ai-gpt`
-   - Run: `python server.py`
-   - Your browser will automatically open to `http://localhost:8000`
-
-2. **Sign In or Create Account**
-   - New users: Click "Create Account" for a free Puter account.
-   - Existing users: Click "Sign In" with your Puter credentials.
-   - Required: You must be signed in to access AI chat features.
-
-3. **Choose Your AI**
-   - Beginners: Keep "Puter.js" selected—it works immediately!
-   - Advanced: Click "⚙️ Configure" to add your own API keys.
-
-4. **Start Chatting!**
-   - Type your message and press Enter or click the arrow button.
-   - Watch the AI respond in real-time!
-
-5. **Logout and Exit**
-   - Click the logout button to sign out.
-   - After logout, choose to exit (which shuts down the server and closes the app) or stay on the login screen.
-
-## ✨ Key Features
-
-- **🔄 Multiple AI Providers**: Switch between different AI services instantly
-  - **Puter.js** (Default - No API key needed!)
-  - **OpenAI** (ChatGPT models)
-  - **Anthropic** (Claude models)
-  - **Google** (Gemini models)
-  - **Groq** (Fast, free models)
-  - **Hugging Face** (Open-source models)
-
-- **🎯 Smart Model Selection**: Choose from dozens of AI models
-  - GPT-4o, GPT-3.5 Turbo
-  - Claude 3.5 Sonnet, Opus, Haiku
-  - Gemini Pro, Gemini 1.5 Flash
-  - Llama 3, Mixtral, and more!
-
-- **🔒 Privacy & Security**: Your conversations stay private
-  - Runs locally on your computer
-  - Secure Puter.js authentication required
-  - No data sent to third parties (except to chosen AI providers)
-  - Secure HTTPS connections only
-
-- **💬 Beautiful Chat Interface**
-  - Clean, modern design
+![Platform](https://img.shields.io/badge/Desktop-Windows%2010%2B-blue)
+![Installer](https://img.shields.io/badge/Installer-MSI-blue)
+![Providers](https://img.shields.io/badge/Providers-OpenAI%2C%20Anthropic%2C%20Gemini%2C%20Groq%2C%20HF-brightgreen)
+![Models](https://img.shields.io/badge/Models-12%2B-purple)
+![Privacy](https://img.shields.io/badge/Privacy-No%20Local%20Storage-important)
+![Auto-Launch](https://img.shields.io/badge/Auto--Launch-Yes-success)
 
 
 # 🤖 BubblesAI Electron Desktop App
@@ -66,22 +14,24 @@ A beautiful, secure, multi-provider AI chat application for Windows, built with 
 
 ---
 
+
 ## 📦 Windows Installer
+
 
 **Latest Release:**
 
-- `BubblesAI Setup 1.0.0.exe` (93 MB)
+- `BubblesAI Setup 1.0.0.exe` (size may vary)
 - Built: December 1, 2025
 - Location: `dist` folder after build
+- SHA-256: `6B022835DE979B22E84CD9E3BA41AA458734592E10C7F2B9E25E5268E5A2D3EB`
 
 **How to Install:**
-1. Double-click `BubblesAI Setup 1.0.0.exe` to start installation.
+1. Double-click `BubblesAI Setup 1.0.0.msi` to start installation.
 2. Follow the on-screen instructions.
-3. Application will auto launch.
-4. After install, BubblesAI will be created in your Start Menu or Desktop shortcut.
+3. After install, launch BubblesAI from your Start Menu or Desktop shortcut.
 
 **How to Share:**
-- You only need to share the installer file (`BubblesAI Setup 1.0.0.exe`).
+- You only need to share the MSI installer file (`BubblesAI Setup 1.0.0.msi`).
 - No need to send extra folders or files.
 
 ---
@@ -89,15 +39,22 @@ A beautiful, secure, multi-provider AI chat application for Windows, built with 
 ## ✨ Features
 
 - **Multi-provider AI chat:**
-   - OpenAI (ChatGPT, GPT-4, GPT-3.5, etc.)
-   - Anthropic (Claude)
-   - Google Gemini
-   - Groq (Llama, Mixtral)
-   - Hugging Face (open-source models)
+  - OpenAI (ChatGPT, GPT-4, GPT-3.5, etc.)
+  - Anthropic (Claude)
+  - Google Gemini
+  - Groq (Llama, Mixtral)
+  - Hugging Face (open-source models)
 - **Modern chat UI:** Responsive, clean, and easy to use
 - **Custom installer:** Share your app with a single Windows installer
 - **Secure:** No local data storage, all API keys are local
 - **Custom icon and branding**
+
+---
+
+
+## 🚀 How to Run
+
+Just install using the MSI file. The application will auto-launch after installation, and Start Menu and Desktop icons will be created for easy access.
 
 ---
 
@@ -123,8 +80,3 @@ A beautiful, secure, multi-provider AI chat application for Windows, built with 
 BubblesAI is designed for students, professionals, and creators who want fast, secure access to the world’s best AI models from a single desktop app.
 
 **Happy chatting! 🚀**
-- Work through complex problems
-
-- Get different perspectives on decisions
-
-- Plan projects and organize tasks
