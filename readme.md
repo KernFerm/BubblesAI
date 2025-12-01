@@ -66,7 +66,7 @@ Just install using the MSI file. The application will auto-launch after installa
 
 ## 💬 Need Help? Join Discord!
 
-1. Get the official Discord invite link for the BubblesAI community.
+1. Get the official Discord invite link for the FNBubbles420 Org 501c3 Discord Server.
 2. Join the server and look for the channel named `#bubbles-ai-gpt`.
 3. In that channel, type `@BubblesTheDev` to ping the owner for help.
 
