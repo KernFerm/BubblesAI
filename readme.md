@@ -1,5 +1,3 @@
-# 🤖 BubblesAI Electron Desktop App
-
 - ![Platform](https://img.shields.io/badge/Desktop-Windows%2010%2B-blue)
 - ![Installer](https://img.shields.io/badge/Installer-MSI-blue)
 - ![Providers](https://img.shields.io/badge/Providers-OpenAI%2C%20Anthropic%2C%20Gemini%2C%20Groq%2C%20HF-brightgreen)
