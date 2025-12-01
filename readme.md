@@ -66,7 +66,18 @@ Just install using the MSI file. The application will auto-launch after installa
 
 ---
 
-## 💡 About
+
+---
+
+## 💬 Need Help? Join Discord!
+
+1. Get the official Discord invite link for the BubblesAI community.
+2. Join the server and look for the channel named `#bubbles-ai-gpt`.
+3. In that channel, type `@BubblesTheDev` to ping the owner for help.
+
+[Discord Invite](https://discord.gg/zQbJJgwbUv)
+
+---
 
 BubblesAI is designed for students, professionals, and creators who want fast, secure access to the world’s best AI models from a single desktop app.
 
