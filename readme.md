@@ -1,4 +1,4 @@
-- ![Platform](https://img.shields.io/badge/Desktop-Windows%2010%2B-blue)
+- ![Platform](https://img.shields.io/badge/Desktop-Windows%2011-blue)
 - ![Installer](https://img.shields.io/badge/Installer-MSI-blue)
 - ![Providers](https://img.shields.io/badge/Providers-OpenAI%2C%20Anthropic%2C%20Gemini%2C%20Groq%2C%20HF-brightgreen)
 - ![Models](https://img.shields.io/badge/Models-12%2B-purple)
