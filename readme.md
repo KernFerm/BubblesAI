@@ -1,12 +1,12 @@
 # 🤖 BubblesAI Electron Desktop App
 
-![Platform](https://img.shields.io/badge/Desktop-Windows%2010%2B-blue)
-![Installer](https://img.shields.io/badge/Installer-MSI-blue)
-![Providers](https://img.shields.io/badge/Providers-OpenAI%2C%20Anthropic%2C%20Gemini%2C%20Groq%2C%20HF-brightgreen)
-![Models](https://img.shields.io/badge/Models-12%2B-purple)
-![Privacy](https://img.shields.io/badge/Privacy-No%20Local%20Storage-important)
-![Auto-Launch](https://img.shields.io/badge/Auto--Launch-Yes-success)
-![GitHub Releases](https://img.shields.io/github/downloads/KernFerm/BubblesAI/total?label=Downloads)
+> ![Platform](https://img.shields.io/badge/Desktop-Windows%2010%2B-blue)
+> ![Installer](https://img.shields.io/badge/Installer-MSI-blue)
+> ![Providers](https://img.shields.io/badge/Providers-OpenAI%2C%20Anthropic%2C%20Gemini%2C%20Groq%2C%20HF-brightgreen)
+> ![Models](https://img.shields.io/badge/Models-12%2B-purple)
+> ![Privacy](https://img.shields.io/badge/Privacy-No%20Local%20Storage-important)
+> ![Auto-Launch](https://img.shields.io/badge/Auto--Launch-Yes-success)
+> ![GitHub Releases](https://img.shields.io/github/downloads/KernFerm/BubblesAI/total?label=Downloads)
 
 
 # 🤖 BubblesAI Electron Desktop App
