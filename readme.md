@@ -27,8 +27,9 @@ A beautiful, secure, multi-provider AI chat application for Windows, built with 
 
 **How to Install:**
 1. Double-click `BubblesAI Setup 1.0.0.msi` to start installation.
-2. Follow the on-screen instructions.
-3. After install, launch BubblesAI from your Start Menu or Desktop shortcut.
+2. Application will `auto-launch` after install.
+3. Follow the on-screen instructions.
+4. After install, BubblesAI can be access via `Start Menu` or `Desktop shortcut`.
 
 **How to Share:**
 - You only need to share the MSI installer file (`BubblesAI Setup 1.0.0.msi`).
@@ -39,11 +40,11 @@ A beautiful, secure, multi-provider AI chat application for Windows, built with 
 ## ✨ Features
 
 - **Multi-provider AI chat:**
-  - OpenAI (ChatGPT, GPT-4, GPT-3.5, etc.)
-  - Anthropic (Claude)
+  - OpenAI (`ChatGPT`, `GPT-4`, `GPT-3.5`, `etc.`)
+  - Anthropic (`Claude`)
   - Google Gemini
-  - Groq (Llama, Mixtral)
-  - Hugging Face (open-source models)
+  - Groq (`Llama`, `Mixtral`)
+  - Hugging Face (`open-source models`)
 - **Modern chat UI:** Responsive, clean, and easy to use
 - **Custom installer:** Share your app with a single Windows installer
 - **Secure:** No local data storage, all API keys are local
