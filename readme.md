@@ -31,10 +31,6 @@ A beautiful, secure, multi-provider AI chat application for Windows, built with 
 4. After install, BubblesAI can be access via `Start Menu` or `Desktop shortcut`.
 5. `BubblesAI` will be the name of the `Desktop Shortcut` or `Start Menu`.
 
-**How to Share:**
-- You only need to share the MSI installer file (`BubblesAI Setup 1.0.0.msi`).
-- No need to send extra folders or files.
-
 ---
 
 ## ✨ Features
