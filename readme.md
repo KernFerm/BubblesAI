@@ -74,6 +74,9 @@ Just install using the MSI file. The application will auto-launch after installa
 
 ---
 
+# Having Trouble 
+- [https://github.com/KernFerm/BubblesAI/blob/main/HAVING_TROUBLE.MD](https://github.com/KernFerm/BubblesAI/blob/main/HAVING_TROUBLE.MD)
+
 BubblesAI is designed for students, professionals, and creators who want fast, secure access to the world’s best AI models from a single desktop app.
 
 **Happy chatting! 🚀**
