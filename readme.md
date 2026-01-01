@@ -62,6 +62,17 @@ Just install using the MSI file. The application will auto-launch after installa
 - **Model selection:** Choose your model (e.g., GPT-4, Claude, Gemini, etc.)
 - **Provider selection:** Switch between providers instantly.
 
+# How To Uninstall
+- if you dont want the program anymore
+```
+1. taskbar - start
+2. settings
+3. apps
+4. find BubblesAI
+5. click the 3 dots
+6. uninstall
+```
+
 ---
 
 ## 💬 Need Help? Join Discord!
