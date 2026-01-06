@@ -20,7 +20,8 @@ A beautiful, secure, multi-provider AI chat application for Windows, built with 
 **Latest Release:**
 
 - `BubblesAI Setup 1.0.3.msi` (size may vary)
-- Built: December 1, 2025
+- Created: December 1, 2025
+- New Release `BubblesAI Setup 1.0.3`
 - Download from the [Releases](https://github.com/KernFerm/BubblesAI/releases) section of this repository
 - SHA-256: `9EAA9DEC79194DCC3B688FD32076CC7E7ED2A38265FFAFD4B65AEEF6E6314E1E`
 
