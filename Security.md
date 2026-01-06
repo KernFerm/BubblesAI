@@ -2,6 +2,7 @@
 
 ## Reporting Vulnerabilities
 If you discover a security vulnerability in BubblesAI, please report it by opening an issue on GitHub or contacting the project owner directly via Discord (`@BubblesTheDev` in #bubbles-ai-gpt).
+- [Discord Invite Link](https://discord.gg/zQbJJgwbUv)
 
 ## Responsible Disclosure
 We encourage responsible disclosure. Please do not publicly disclose vulnerabilities until they have been addressed.
