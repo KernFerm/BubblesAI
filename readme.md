@@ -19,14 +19,15 @@ A beautiful, secure, multi-provider AI chat application for Windows, built with 
 
 **Latest Release:**
 
-- `BubblesAI Setup 1.0.3.msi` (size may vary)
+- `BubblesAI Setup 1.0.5.msi` (size may vary)
 - Created: December 1, 2025
-- New Release `BubblesAI Setup 1.0.3`
+- Updated March 22nd 2026
+- New Release `BubblesAI Setup 1.05`
 - Download from the [Releases](https://github.com/KernFerm/BubblesAI/releases) section of this repository
-- SHA-256: `9EAA9DEC79194DCC3B688FD32076CC7E7ED2A38265FFAFD4B65AEEF6E6314E1E`
+
 
 **How to Install:**
-1. Double-click `BubblesAI Setup 1.0.3.msi` to start installation.
+1. Double-click `BubblesAI Setup 1.0.5.msi` to start installation.
 2. Application will `auto-launch` after install.
 3. Follow the on-screen instructions.
 4. After install, BubblesAI can be access via `Start Menu` or `Desktop shortcut`.
